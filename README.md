@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Ydv-Dhannu14/Ydv-Dhannu14/main/1762106642919.jpg"  />
-</p>
+</p> -->
 
 <h1 align="center">Hi 🌹🌹, I'm Dhannu Yaduvanshi.</h1>
 <h3 align="center">Software Engineer specializing in web application development, with a future-focused interest in Cybersecurity. Actively learning secure system design, vulnerability assessment, and best practices for protecting applications and data.</h3>
